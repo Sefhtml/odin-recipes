@@ -1,7 +1,8 @@
 body{
-    margin: 0;
+    margin: 20px;
     padding: 0;
     background-color: rgb(240, 93, 93);
+    
 }
 a{
     font-size: 30px;
@@ -20,7 +21,7 @@ img{
 #container{
     width: 80%;
     background-color: aliceblue;
-    margin:0 20ox;
+    margin:0 auto;
     padding: 20px;
 
 }
